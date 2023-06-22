@@ -4,6 +4,6 @@
 public class test2 {
 
     public static void main(String[] args) {
-        System.out.println("where are we?");
+        System.out.println("i dont know?");
     }
 }
